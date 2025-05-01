@@ -1,0 +1,1 @@
+Training Set Mean Squared Error (MSE): 0.2020
