@@ -1,0 +1,14 @@
+name: Airport_Departure_Delays_Pipeline
+
+conda_env: pipeline_env.yaml
+
+
+entry_points:
+  main:
+    command: "python import_data.py && python clean_data.py && python poly_regressor_Python_1.0.0.py"
+  import_data:
+    command: "python import_data.py"
+  clean_data:
+    command: "python clean_data.py"
+  regression:
+    command: "python poly_regressor_Python_1.0.0.py"
