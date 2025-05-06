@@ -1,7 +1,5 @@
 # MSDA Data Analytics Portfolio
 
-This repository contains key projects and assignments completed as part of my Master of Science in Data Analytics program. It showcases my skills in data wrangling, exploratory data analysis, machine learning, statistical modeling, and data visualization using Python, SQL, and Tableau.
----
 
 ## 📌 Key Projects
 
